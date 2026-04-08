@@ -10,7 +10,7 @@
                 "STM32F411xE"
             ],
             "cStandard": "c99",
-            "compilerPath": "C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/arm-none-eabi-gcc.exe", // Path to compiler
+            "compilerPath": ":/Program Files/Arm/GNU Toolchain mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc.exe", // Path to compiler
             "intelliSenseMode": "windows-gcc-arm"
         }
     ],
